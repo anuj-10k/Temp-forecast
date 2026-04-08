@@ -4,6 +4,13 @@
 This project investigates various statistical and machine learning approaches to predict daily minimum temperatures. By comparing traditional **Stochastic Time-Series models (ARIMA/SARIMA)** with **Regularized Regression (Lasso, OLS)** and **Non-linear Polynomial models**, this research identifies the most stable and accurate methods for environmental forecasting.
 
 ---
+## 👨‍🔬 Authors
+@aarushisharma1623
+@anuj-10k
+@DrustO9
+@jatinofficial4001
+@KrishnaRai1
+@24Sudhanshu
 
 ## 📊 Project Overview
 The core objective is to evaluate how different mathematical frameworks handle the inherent seasonality and autocorrelation found in climate data. 
