@@ -6,7 +6,7 @@ This project investigates various statistical and machine learning approaches to
 ---
 ## 👨‍🔬 Authors
 
-- **Aarushi Sharma** – [GitHub](https://github.com/aarushisharma1623)
+- **Aarushi Sharma** – [GitHub](https://github.com/Aarushi1623)
 - **Anuj Kumar** – [GitHub](https://github.com/anuj-10k)
 - **Ayush Kumar Maurya** – [GitHub](https://github.com/DrustO9)
 - **Jatin Sharma** – [GitHub](https://github.com/jatinofficial4001)
