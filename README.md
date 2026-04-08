@@ -5,12 +5,14 @@ This project investigates various statistical and machine learning approaches to
 
 ---
 ## 👨‍🔬 Authors
-@aarushisharma1623
-@anuj-10k
-@DrustO9
-@jatinofficial4001
-@KrishnaRai1
-@24Sudhanshu
+
+- **aarushisharma1623** – [GitHub](https://github.com/aarushisharma1623)
+- **anuj-10k** – [GitHub](https://github.com/anuj-10k)
+- **DrustO9** – [GitHub](https://github.com/DrustO9)
+- **jatinofficial4001** – [GitHub](https://github.com/jatinofficial4001)
+- **KrishnaRai1** – [GitHub](https://github.com/KrishnaRai1)
+- **24Sudhanshu** – [GitHub](https://github.com/24Sudhanshu)
+
 
 ## 📊 Project Overview
 The core objective is to evaluate how different mathematical frameworks handle the inherent seasonality and autocorrelation found in climate data. 
