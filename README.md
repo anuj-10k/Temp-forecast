@@ -14,7 +14,7 @@ This project investigates various statistical and machine learning approaches to
 - **Sudhanshu Sharma** – [GitHub](https://github.com/24Sudhanshu)
 
 ## Link for Jupyter notebook code if above is not working
-(https://drive.google.com/file/d/1rqyQItJY6KZJpxrZdZlNQJdI4di96TN6/view?usp=drive_link)
+[Google Drive](https://drive.google.com/file/d/1rqyQItJY6KZJpxrZdZlNQJdI4di96TN6/view?usp=drive_link)
 
 ## 📊 Project Overview
 The core objective is to evaluate how different mathematical frameworks handle the inherent seasonality and autocorrelation found in climate data. 
